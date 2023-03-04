@@ -18,7 +18,6 @@ public class Q13 {
      Your program should print How much in commission user will get...
      */
 
-
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter the sales amount as $");
         int salesAmount = scan.nextInt();
