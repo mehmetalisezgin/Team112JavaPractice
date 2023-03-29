@@ -1,6 +1,4 @@
-package practice.week6;
-
-import java.sql.PreparedStatement;
+package practice.week06;
 
 public class ToStringMethod {
 
