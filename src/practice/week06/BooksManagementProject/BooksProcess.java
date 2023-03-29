@@ -1,4 +1,4 @@
-package practice.week06;
+package practice.week06.BooksManagementProject;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package practice.week06;
+package practice.week06.BooksManagementProject;
 
 public class BooksInfo {
 
