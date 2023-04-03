@@ -12,7 +12,8 @@ public class Q34 {
     static Scanner scan = new Scanner(System.in) ;
     static int max ; // hold index number of the largest value
 
-    // finding largest value
+    // finding largest value  arrayList[i] = scan.next();
+    // fix it this code
     public static void largestLenghtofStringValue(){
 
         System.out.println("Please input the size of Array...");
@@ -22,7 +23,7 @@ public class Q34 {
         // create an array
         for (int i = 0; i < size; i++) {
             System.out.println(i + 1 + ". Data");
-            arrayList[i] = scan.next();
+
 
         }
         for(int i =0 ; i<arrayList.length ; i++){
