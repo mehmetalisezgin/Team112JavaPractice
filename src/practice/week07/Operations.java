@@ -1,4 +1,4 @@
-package practice.week7;
+package practice.week07;
 
 public interface Operations {
 

@@ -1,6 +1,4 @@
-package practice.week7;
-
-import jdk.dynalink.Operation;
+package practice.week07;
 
 import java.util.Scanner;
 

@@ -1,0 +1,25 @@
+School Management System in Java
+1) This program should perform the following operations for student and teacher registrations:
+-Student class should include First Name, Last Name, ID Number, Age, Field of Study, School Number
+-Teacher class should include First Name, Last Name, ID Number, Age, Field of Study, Employee Number
+2) When the program starts, the user should see the main page as follows:
+====================================
+Teacher and Student Management Panel
+====================================
+1- Student Transaction
+2- Teacher Transaction
+   Q. Exit
+Depending on whether the user selects "Student Transaction" or "Teacher Transaction," the following options should be displayed:
+======= Transactions ============
+1-Add
+2-Delete with ID
+3-Search with ID
+4-List All
+  Q. Return to Main Menu
+Your transaction should be :
+* If the user selects "Add," the program should prompt the user to input the necessary information for a new student or teacher registration and save it to the corresponding list.
+* If the user selects "Delete with ID," the program should prompt the user to input the ID number of the student or teacher to be deleted and remove it from the corresponding list.
+* If the user selects "Search with ID," the program should prompt the user to input the ID number of the student or teacher to search for and display their information.
+* If the user selects "List All," the program should display a list of all the registered students or teachers.
+* If the user selects "Q," the program should exit.
+* If the user selects "Return to Main Menu," the program should go back to the main menu.
