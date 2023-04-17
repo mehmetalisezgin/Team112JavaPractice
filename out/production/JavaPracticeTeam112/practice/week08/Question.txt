@@ -9,6 +9,8 @@ Teacher and Student Management Panel
 1- Student Transaction
 2- Teacher Transaction
    Q. Exit
+
+
 Depending on whether the user selects "Student Transaction" or "Teacher Transaction," the following options should be displayed:
 ======= Transactions ============
 1-Add

@@ -33,7 +33,7 @@ public class Q06 {
         if (radius<=0){
             System.out.println("Please input bigger than 0 ");
         } else {
-            area = pi*radius*radius;
+
             perimeter = 2*pi*radius ;
             System.out.println("The Area of the circle is :"+area);
             System.out.println("The Perimeter of the circle is :"+perimeter);
